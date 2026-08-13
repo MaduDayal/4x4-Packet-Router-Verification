@@ -277,7 +277,7 @@ The project was developed and tested with **Synopsys VCS** using **EDA Playgroun
 EDA Playground project:
 
 ```text
-ADD_YOUR_EDA_PLAYGROUND_SHARE_LINK_HERE
+https://www.edaplayground.com/x/YZx9
 ```
 
 ### Test selection
